@@ -1,6 +1,9 @@
 [submodule "isl"]
 	path = isl
 	url = git://repo.or.cz/isl.git
+	url = https://github.com/nobodyzxc/isl.git
+	branch = sync-lt-ppcg
 [submodule "pet"]
 	path = pet
-	url = git://repo.or.cz/pet.git
+	url = https://github.com/nobodyzxc/pet.git
+	branch = sync-lt-ppcg
