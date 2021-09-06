@@ -31,8 +31,9 @@ automake, libtool and pkg-config.
 
 	git clone git://repo.or.cz/ppcg.git
 	cd ppcg
-	./get_submodules.sh
-	./autogen.sh
+	./build.sh
+	#./get_submodules.sh
+	#./autogen.sh
 
 
 Compilation:
